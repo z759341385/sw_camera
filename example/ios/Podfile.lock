@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - sw_camera (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - sw_camera (from `.symlinks/plugins/sw_camera/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  sw_camera:
+    :path: ".symlinks/plugins/sw_camera/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  sw_camera: 614e3fc1b493f1c9b03f0d28ac0d313d3b861c15
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.11.0
